@@ -1,0 +1,3 @@
+C:/Users/kibou/CLionProjects/aicourse/cmake-build-debug/CMakeFiles/aicourse.dir
+C:/Users/kibou/CLionProjects/aicourse/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/kibou/CLionProjects/aicourse/cmake-build-debug/CMakeFiles/rebuild_cache.dir

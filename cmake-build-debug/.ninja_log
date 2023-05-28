@@ -1,0 +1,13 @@
+# ninja log v5
+5	250	7070003414309942	CMakeFiles/aicourse.dir/NeuralNetwork.cpp.obj	355f5663e6af5b84
+1	367	7070003415492471	CMakeFiles/aicourse.dir/main.cpp.obj	3af6c61efcb793a
+369	498	7070003416777949	aicourse.exe	1f27af594a5d809d
+3	318	7070003705172398	CMakeFiles/aicourse.dir/main.cpp.obj	3af6c61efcb793a
+319	405	7070003706012743	aicourse.exe	1f27af594a5d809d
+8	185	7070004188185388	CMakeFiles/aicourse.dir/NeuralNetwork.cpp.obj	355f5663e6af5b84
+4	328	7070004189611371	CMakeFiles/aicourse.dir/main.cpp.obj	3af6c61efcb793a
+329	428	7070004190591011	aicourse.exe	1f27af594a5d809d
+3	314	7070004254363232	CMakeFiles/aicourse.dir/main.cpp.obj	3af6c61efcb793a
+314	400	7070004255202934	aicourse.exe	1f27af594a5d809d
+3	314	7070004506880221	CMakeFiles/aicourse.dir/main.cpp.obj	3af6c61efcb793a
+315	401	7070004507715283	aicourse.exe	1f27af594a5d809d
